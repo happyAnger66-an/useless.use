@@ -4,3 +4,6 @@
 ## [2026-09-08] write | AWQ 激活感知权重量化要点与飞书文档嵌图实践
   wiki/quantization/awq-activation-aware-weight-quantization.md
 
+## [2026-09-08] write | AWQ 激活感知权重量化：方法要点与实验结论（移除无关内容）
+  wiki/quantization/awq-activation-aware-weight-quantization.md
+
