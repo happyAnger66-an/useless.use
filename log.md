@@ -10,3 +10,6 @@
 ## [2026-09-08] write | FlashRT Pi0.5 Thor NVFP4 端到端总结
   wiki/quantization/flashrt-pi05-thor-nvfp4.md
 
+## [2026-09-08] write | NVFP4-A16 Blackwell GEMV kernel 设计深挖
+  wiki/kernels/nvfp4-a16-blackwell-gemv.md
+
